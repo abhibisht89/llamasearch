@@ -5,9 +5,9 @@ LlamaSearch is a conversational search engine powered by multiple LLM providers,
 Best of all, by combining Ollama for local LLM processing and DuckDuckGo for open-source search, users can run a powerful, privacy-respecting search engine entirely on their local machines without any external dependencies or API keys. It is an extension of the search_with_lepton project by LeptonAI.
 
 <div align="center">
-<img width="70%" src="assets/demo.png">
+<img width="70%" src="assets/demo1.png">
 <br>  
-<img width="70%" src="assets/demo.gif">
+<img width="70%" src="assets/demo2.png">
 </div>
 
 ## Features
